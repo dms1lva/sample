@@ -1,0 +1,1 @@
+{   "name": "minimal",   "description": "minimal",   "version": "0.0.1",   "devDependencies": {     "mocha": "*"   } }
